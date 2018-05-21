@@ -9,5 +9,5 @@ Database: SQL. Backend: Flask.
 Demo Video Link:
 # Youtube link for demo:https://youtu.be/Sv6QgJyj-9I
 # Presentations Link:https://prezi.com/rni87doxs24i/edit/?auth_key=r9ju1fv&follow=xtera3d7xtr2
-# Database Link:
+Database Link:
 # Sql: https://drive.google.com/open?id=1us3X4h6dF5T3sJTZms-nR9bc1SU-1U9C
